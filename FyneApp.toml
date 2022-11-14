@@ -1,0 +1,8 @@
+Website = ""
+
+[Details]
+Icon = "Icon.png"
+Name = "Test APP"
+ID = "com.example.app"
+Vsersion = "1.0.0"
+Build = 1
